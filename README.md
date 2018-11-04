@@ -8,5 +8,4 @@ Some classes that shows a few features that Lombok provides:
 - NoArgsConstructor
 - EqualsAndHashCode
 - NonNull
-- Data
 - Builder
