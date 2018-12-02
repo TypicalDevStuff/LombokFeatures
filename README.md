@@ -1,6 +1,6 @@
 # Lombok features example
 
-Some classes that shows a few features that Lombok provides:
+Some classes showing a few features that Lombok provides:
 
 - Getter 
 - Setter
